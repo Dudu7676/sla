@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.title{
+    background-color: cornflowerblue;
+    color: beige;
+    padding: 5px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+main{
+    padding: 20px;
+} /*PRINCIPAL PÁGINA*/
+
+main button {
+    padding: 5px 10px;
+    background-color: blueviolet;
+    color: cornflowerblue;
+    border: none;
+    border-radius: 10px;
+} /*BUTTON*/
+
+div.lista{
+    margin-top: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.baseboard {
+background-color: cornflowerblue;
+text-align: center;
+padding: 20px;
+}
+
+p{
+    background-color: cornflowerblue;
+    border: spacing 4px;
+} /*texto em baixo */
+
+#produtos {
+    list-style: none;
+    padding: 0;
+}
+
+#produtos li {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    padding: 12px;
+    width: 250px;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    margin: 5px;
+} /* BOX */
+
+#produtos img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    align-items: center;
+} /* IMAGENS BOX*/
+
+a{
+    padding: 6px 5px;
+    background-color: rgb(40, 22, 83);
+    border: 8px;
+    border-radius: 10px;
+    display: list-item;
+    color: #f0f0f0;
+    background-position: center;
+    text-align: center;
+} /*LINKS/*
