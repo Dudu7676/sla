@@ -1,0 +1,8 @@
+    img{
+    height: 200px; 
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    cursor:pointer;
+    }

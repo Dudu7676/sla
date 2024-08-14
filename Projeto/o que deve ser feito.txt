@@ -1,0 +1,18 @@
+Considere a seguinte estrutura de pastas:
+
+ProjetoFinal
+ imgs
+	logo.jpg
+ scripts
+	script.js
+ index.html
+ styles.css
+
+
+Crie um projeto com as seguintes características:
+
+1. Exiba uma página onde mostre a imagem logo.jpg centralizada no topo da tela.
+2. Ao carregar a página deve mostrar apenas um alerta com a mensagem “Bem vindo ao Projeto Final!”.
+3. Ao clicar na imagem deve mostrar apenas um alerta com a mensagem “Projeto Final”.
+4. As mensagens de alerta devem ficar no arquivo script.js;
+5.Todos os estilos deve ficar no arquivo styles.css;
